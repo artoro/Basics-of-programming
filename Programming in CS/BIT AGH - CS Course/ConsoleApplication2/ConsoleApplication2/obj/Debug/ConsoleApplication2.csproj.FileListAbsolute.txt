@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
