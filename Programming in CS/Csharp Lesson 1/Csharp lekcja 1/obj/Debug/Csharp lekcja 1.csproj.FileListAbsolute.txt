@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\C++\Csharp lekcja 1\Csharp lekcja 1\bin\Debug\Csharp lekcja 1.exe.config
+C:\Users\Admin\Desktop\C++\Csharp lekcja 1\Csharp lekcja 1\bin\Debug\Csharp lekcja 1.exe
+C:\Users\Admin\Desktop\C++\Csharp lekcja 1\Csharp lekcja 1\bin\Debug\Csharp lekcja 1.pdb
+C:\Users\Admin\Desktop\C++\Csharp lekcja 1\Csharp lekcja 1\obj\Debug\Csharp lekcja 1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C++\Csharp lekcja 1\Csharp lekcja 1\obj\Debug\Csharp lekcja 1.exe
+C:\Users\Admin\Desktop\C++\Csharp lekcja 1\Csharp lekcja 1\obj\Debug\Csharp lekcja 1.pdb
+C:\Users\Admin\Desktop\C++\CS\Csharp lekcja 1\Csharp lekcja 1\bin\Debug\Csharp lekcja 1.exe.config
+C:\Users\Admin\Desktop\C++\CS\Csharp lekcja 1\Csharp lekcja 1\obj\Debug\Csharp lekcja 1.exe
+C:\Users\Admin\Desktop\C++\CS\Csharp lekcja 1\Csharp lekcja 1\obj\Debug\Csharp lekcja 1.pdb
+C:\Users\Admin\Desktop\C++\CS\Csharp lekcja 1\Csharp lekcja 1\bin\Debug\Csharp lekcja 1.exe
+C:\Users\Admin\Desktop\C++\CS\Csharp lekcja 1\Csharp lekcja 1\bin\Debug\Csharp lekcja 1.pdb
+C:\Users\Admin\Desktop\C++\CS\Csharp lekcja 1\Csharp lekcja 1\obj\Debug\Csharp lekcja 1.csprojResolveAssemblyReference.cache
