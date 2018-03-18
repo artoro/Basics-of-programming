@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521373375 source:c:\users\admin\desktop\nowy folder\my exercises in cpp\console graphics engine\aszgraph.cpp
+	"ASZgraph.h"
+
+1521373354 c:\users\admin\desktop\nowy folder\my exercises in cpp\console graphics engine\aszgraph.h
+	<iostream>
+	<windows.h>
+	<math.h>
+
+1521373645 source:c:\users\admin\desktop\nowy folder\my exercises in cpp\console graphics engine\main.cpp
+	"ASZgraph.h"
+	<conio.h>
+
