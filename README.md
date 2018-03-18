@@ -1,2 +1,2 @@
 # Basics-of-programming
-IT exercises in my studies.
+IT exercises in my studies and hobby practice.
