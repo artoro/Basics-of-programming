@@ -1,0 +1,19 @@
+﻿<Window x:Class="Strategies.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Strategies"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="244" Width="451">
+    <Grid Margin="0,0,2,1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="TextLabel" Content="Tekst" HorizontalAlignment="Left" Margin="27,24,0,0" VerticalAlignment="Top" Height="26" Width="230"/>
+        <Button x:Name="EditButton" Content="Przycisk" HorizontalAlignment="Left" Margin="322,30,0,0" VerticalAlignment="Top" Width="75" Height="20" Click="EditButton_Click"/>
+        <Button x:Name="BikeButton" Content="Rower" HorizontalAlignment="Left" Margin="322,127,0,0" VerticalAlignment="Top" Width="75" Height="20" Click="BikeButton_Click"/>
+        <Button x:Name="BusButton" Content="Autobus" HorizontalAlignment="Left" Margin="322,73,0,0" VerticalAlignment="Top" Width="75" Height="20" Click="BusButton_Click"/>
+
+    </Grid>
+</Window>

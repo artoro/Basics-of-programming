@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Events\Events\bin\Debug\Events.exe.config
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Events\Events\bin\Debug\Events.exe
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Events\Events\bin\Debug\Events.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Events\Events\obj\Debug\Events.exe
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Events\Events\obj\Debug\Events.pdb

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\bin\Debug\Strategies.exe.config
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\bin\Debug\Strategies.exe
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\bin\Debug\Strategies.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\Strategies_MarkupCompile.cache
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\Strategies_MarkupCompile.lref
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\Strategies.g.resources
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\Strategies.Properties.Resources.resources
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\Strategy.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\Strategies.exe
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Strategies\Strategies\obj\Debug\Strategies.pdb

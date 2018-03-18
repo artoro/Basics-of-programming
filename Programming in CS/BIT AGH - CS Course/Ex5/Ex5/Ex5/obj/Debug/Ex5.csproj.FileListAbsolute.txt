@@ -1,0 +1,12 @@
+C:\Users\Bartosz Szczypka\Documents\Visual Studio 2017\Projects\Ex5\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\Bartosz Szczypka\Documents\Visual Studio 2017\Projects\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\Bartosz Szczypka\Documents\Visual Studio 2017\Projects\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\Bartosz Szczypka\Documents\Visual Studio 2017\Projects\Ex5\Ex5\obj\Debug\Ex5.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz Szczypka\Documents\Visual Studio 2017\Projects\Ex5\Ex5\obj\Debug\Ex5.exe
+C:\Users\Bartosz Szczypka\Documents\Visual Studio 2017\Projects\Ex5\Ex5\obj\Debug\Ex5.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Ex5\Ex5\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Ex5\Ex5\Ex5\obj\Debug\Ex5.exe
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Ex5\Ex5\Ex5\obj\Debug\Ex5.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Ex5\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Ex5\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\Admin\Desktop\Programowanie\CS\BIT\Ex5\Ex5\Ex5\obj\Debug\Ex5.csprojResolveAssemblyReference.cache
