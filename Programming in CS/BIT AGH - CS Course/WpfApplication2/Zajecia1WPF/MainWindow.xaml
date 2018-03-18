@@ -1,0 +1,15 @@
+﻿<Window x:Class="Zajecia1WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zajecia1WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <DataGrid x:Name="AnimalDataGrid" HorizontalAlignment="Left" Height="148" Margin="28,29,0,0" VerticalAlignment="Top" Width="266"/>
+        <Button x:Name="AgeButton" Content="Sort By Age" HorizontalAlignment="Left" Margin="392,52,0,0" VerticalAlignment="Top" Width="75" Click="AgeButton_Click"/>
+        <Button x:Name="WeightButton" Content="Sort By Weight" HorizontalAlignment="Left" Margin="392,95,0,0" VerticalAlignment="Top" Width="75" Click="WeightButton_Click"/>
+
+    </Grid>
+</Window>

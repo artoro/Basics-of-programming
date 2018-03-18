@@ -1,0 +1,6 @@
+c:\users\bartosz szczypka\documents\visual studio 2017\Projects\Zajecia1\Zajecia1\bin\Debug\Zajecia1.exe.config
+c:\users\bartosz szczypka\documents\visual studio 2017\Projects\Zajecia1\Zajecia1\bin\Debug\Zajecia1.exe
+c:\users\bartosz szczypka\documents\visual studio 2017\Projects\Zajecia1\Zajecia1\bin\Debug\Zajecia1.pdb
+c:\users\bartosz szczypka\documents\visual studio 2017\Projects\Zajecia1\Zajecia1\obj\Debug\Zajecia1.csprojResolveAssemblyReference.cache
+c:\users\bartosz szczypka\documents\visual studio 2017\Projects\Zajecia1\Zajecia1\obj\Debug\Zajecia1.exe
+c:\users\bartosz szczypka\documents\visual studio 2017\Projects\Zajecia1\Zajecia1\obj\Debug\Zajecia1.pdb
