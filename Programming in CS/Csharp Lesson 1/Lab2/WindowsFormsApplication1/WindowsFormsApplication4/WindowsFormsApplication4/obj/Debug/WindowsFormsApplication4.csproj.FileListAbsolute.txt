@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C++\CS\Csharp Lab 2\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Admin\Desktop\C++\CS\Csharp Lab 2\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Admin\Desktop\C++\CS\Csharp Lab 2\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Admin\Desktop\C++\CS\Csharp Lab 2\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Admin\Desktop\C++\CS\Csharp Lab 2\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Admin\Desktop\C++\CS\Csharp Lab 2\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\C++\CS\Csharp Lab 2\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Admin\Desktop\C++\CS\Csharp Lab 2\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
